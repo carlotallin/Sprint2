@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6343ef4a62e4b959a1cd1ab2"
+  },
+  "Name": "Carlota Llinas",
+  "Postal address": "C/Balmes 120, 1r 4rta",
+  "Phone": "665879544",
+  "Email": "carlota@gmail.com",
+  "Registration date": "10/10/2022",
+  "Customer recommended by ": "Biel Llinas",
+  "Seller": "Ramon Bernad"
+},{
+  "_id": {
+    "$oid": "6343ef7062e4b959a1cd1ab3"
+  },
+  "Name": "Sara Bernad",
+  "Postal address": "C/Aragó 126, 1r 2na",
+  "Phone": "696379544",
+  "Email": "sara@gmail.com",
+  "Registration date": "10/10/2022",
+  "Customer recommended by ": "Carlota Llinas",
+  "Seller": "Ramon Bernad"
+},{
+  "_id": {
+    "$oid": "6343efaf62e4b959a1cd1ab4"
+  },
+  "Name": "Xavi Campanario",
+  "Postal address": "C/Muntaner 106, 3r 2na",
+  "Phone": "696393144",
+  "Email": "sara@gmail.com",
+  "Registration date": "10/10/2022",
+  "Customer recommended by ": "",
+  "Seller": "Ramon Bernad"
+}]
