@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6343f2b062e4b959a1cd1af6"
+  },
+  "Brand": "Ray Ban",
+  "Graduation": {
+    "Right glass": 1.05,
+    "Left glass": 0.05
+  },
+  "Type of mount": "floating",
+  "Mount color": "black",
+  "Right glass color": "no color",
+  "Left glass color": "no color",
+  "Price": 59.99,
+  "Provider_id": {
+    "$oid": "6343e62262e4b959a1cd19fe"
+  }
+},{
+  "_id": {
+    "$oid": "635278aa624d917353a6d73e"
+  },
+  "Brand": "Meller",
+  "Graduation": {
+    "Right glass": 1,
+    "Left glass": 0.25
+  },
+  "Type of mount": "floating",
+  "Mount color": "brown",
+  "Right glass color": "no color",
+  "Left glass color": "no color",
+  "Price": 89.99,
+  "Provider_id": {
+    "$oid": "6343e62262e4b959a1cd19fe"
+  }
+}]
